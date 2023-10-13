@@ -11,17 +11,6 @@
 4. Extract the files to somewhere convenient (Desktop is recommended)
 5. No internet access is allowed during the competition.  **If you need to get the files again, summon a judge / room monitor.**
 
-## Competition Sample Run
-
-1. Right now you are logged in to the testing server.  
-2. When the competition starts, you will be asking to log out of the software and log back in
-3. Sample problem: Parrot / Echo
-  - Write a program that takes input from standard input and outputs (echos) the input from standard input to standard output
-  - In the PC2 program use the "Test" button.  The Test button will ask for an input file.
-  - Create an input file with some text in it.  PC2 will treat this as reading from standard input
-  - PC2 will output to standard output.
-
-
 ## 2023 ACM Programming Contest
 * Complete as many questions as you can during the contest. 
 
